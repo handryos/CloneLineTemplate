@@ -1,4 +1,4 @@
-//The rest of your code
+#The rest of your code
 
 <CloneLineTemplate minRender={1} arrayName={"pagesList"}>
           <Item name={"."} /> //This will be the children that will be cloned, i recommend make a new tsx file, pass the name 
