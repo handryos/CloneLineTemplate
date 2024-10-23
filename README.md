@@ -10,7 +10,13 @@ MUI and HookForm
 npm i react-hook-form @mui/material
 ```
 
+## Usage
+
+```typescript
 <CloneLineTemplate minRender={1} arrayName={"pagesList"}> <Item name={"."} /> //This will be the children that will be cloned, i recommend make a new tsx file, pass the name
+```
+
+
 
 //Example of new tsx that is children upside
 
