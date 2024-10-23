@@ -18,6 +18,6 @@ npm i react-hook-form @mui/material
 
 ### Like this
 ```typescript
-//Example of new tsx that is children upside
+//Example of a new tsx with the name in props
 export default function Item({ name }: any) { return <MainTextField name={name + ".teste"} />; //Here you put anything that you want be cloned, im using a form elements, like inputs, controlled by hookform }
 ```
